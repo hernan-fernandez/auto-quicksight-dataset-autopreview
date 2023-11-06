@@ -2,6 +2,8 @@
 This plugin disable the auto-preview button in Amazon QuickSight. This plugin is provided for demostrative purposes
 
 
+<img src="demo.gif" alt="Demo" width="300"/>
+
 **Firefox:**
 
 Instruction to load the firefox plugin
