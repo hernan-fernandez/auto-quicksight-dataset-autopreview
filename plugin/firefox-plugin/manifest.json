@@ -5,11 +5,11 @@
   "description": "Unchecks the auto-preview slider on QuickSight.",
   "permissions": [
     "activeTab",
-    "https://us-east-1.quicksight.aws.amazon.com/*"
+    "https://us-east-1.quicksight.aws.amazon.com/sn/data-sets/*"
   ],
   "content_scripts": [
     {
-      "matches": ["https://us-east-1.quicksight.aws.amazon.com/*"],
+      "matches": ["https://us-east-1.quicksight.aws.amazon.com/sn/data-sets/*"],
       "js": ["uncheckSlider.js"],
       "run_at": "document_idle"
     }
