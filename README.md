@@ -3,6 +3,7 @@ This plugin disable the auto-preview button in Amazon QuickSight. This plugin is
 
 
 **Firefox:**
+
 Instruction to load the firefox plugin
 
     * Open Firefox.
@@ -13,7 +14,9 @@ Instruction to load the firefox plugin
     * Your extension should now be installed temporarily and will remain until you restart Firefox.
 
 **Chrome:**
+
 Instruction to load the firefox plugin
+
     * Open Chrome.
     * Enter chrome://extensions/ in the URL bar.
     * Enable "Developer mode" by toggling the switch in the upper-right corner of the extensions page.
@@ -23,4 +26,4 @@ Instruction to load the firefox plugin
 
 
 
-# This plugin is provided for demo purposes v0.1
+### This plugin is provided for demo purposes v0.1
