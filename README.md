@@ -1,5 +1,6 @@
 # Disable Amazon Quicksight Autopreview
-This plugin disable the auto-preview button in Amazon QuickSight. This plugin is provided for demostrative purposes
+This browser plugin disable the auto-preview button in Amazon QuickSight. When you edit a dataset in Quicksight, this plugin will uncheck the "auto-preview-switch" 2000ms after the webpage load automatically.
+This plugin is provided for demostrative purposes and only works in us-east-1. To make it work in other regions edit the permission url in the file manifest.json
 
 
 <img src="demo.gif" alt="Demo" width="300"/>
