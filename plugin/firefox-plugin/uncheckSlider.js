@@ -5,7 +5,7 @@ function waitForElement(selector, callback) {
     console.log('Element found', element);
     callback(element);
   } else {
-    setTimeout(() => waitForElement(selector, callback), 1000); // timing
+    setTimeout(() => waitForElement(selector, callback), 2000); // timing
   }
 }
 
